@@ -1,0 +1,33 @@
+p{
+    color: blueviolet;
+    font-size: xx-large;
+    font-style: italic;
+}
+#Home{
+    background-color: transparent;
+    background-image: none;
+    background-image: url("Images/trying\ the\ grunge_.jpeg"); 
+}
+#Deee{
+    height:30%;
+    width:40%;
+}
+#Portfolio{
+    height:50%;
+    width:40%;
+}
+#About{
+    background-image: none;
+    background-color: transparent;
+    background-image: url("Images/20240226_155751.jpg");
+}
+#Skills{
+    background-color: transparent;
+    background-image: none;
+    background-image: url(Images/Butterfly\ Mobile_monarch\ Butterfly\ Chandelier\ Mobile_purple\ and\ White\ Butterflies_kids\ Room_baby\ Shower_butterfly\ Crib\ Mobile\,\ Nursery\ Decor\ -\ Etsy.jpeg);
+}
+#ol{
+    font-size: xx-large;
+    font-style: inherit;
+    font-weight: 900;
+}
